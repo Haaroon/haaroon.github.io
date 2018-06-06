@@ -30,7 +30,7 @@ For my industrial year I worked as a full time technical analyst at
 # Publications
 
 * **[An Empirical Analysis of Anonymity in Zcash](files/usenix18.pdf)**
-  ([paper](https://arxiv.org/abs/1805.03180),
+  ([arxiv](https://arxiv.org/abs/1805.03180),
   [blogpost](https://www.benthamsgaze.org/2018/05/09/the-pools-run-dry-analyzing-anonymity-in-zcash/)) <br/>
   George Kappos, <b>Haaroon Yousaf</b>, Mary Maller, and Sarah Meiklejohn<br/>
   27th USENIX Security Symposium (USENIX Security 18)
