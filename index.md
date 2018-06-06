@@ -48,6 +48,7 @@ For my industrial year I worked as a full time technical analyst at
 <p>
 A list of some of the events I've been to in reverse chronological order. 
 </p>
+* [Summer school on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2018/)
 * [3rd IEEE European Symposium on Security and Privacy (EuroS&P)](https://www.ieee-security.org/TC/EuroSP2018/)
 * [33rd Chaos Communication Congress (33c3)](https://www.ccc.de/en/)
 * [2nd London Crypto Party 2017](https://londoncryptoday.wordpress.com/)
