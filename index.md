@@ -13,9 +13,6 @@ of [Dr Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/) and
 the [EU 2020 project](https://ec.europa.eu/programmes/horizon2020/). 
 I am also apart of the [Initiative for Cryptocurrencies and Contracts (IC3)](http://www.initc3.org/).
 
-I am a Computer Science PhD student in UCL (University College London) , supervised by Dr Sarah Meiklejohn and 
-Professor Jens Groth and supported by EU 2020 Horizon project. 
-
 My history is as follows, 
 I completed a [Masters of Philosophy (MPhil)](https://en.wikipedia.org/wiki/Master_of_Philosophy) 
 in [Advanced Computer Science](https://www.cl.cam.ac.uk/admissions/acs/) at the
