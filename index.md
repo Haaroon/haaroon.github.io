@@ -45,13 +45,13 @@ For my industrial year I worked as a full time technical analyst at
 
 
 # Events
-<p>
-A list of some of the events I've been to in reverse chronological order. 
-</p>
+<p> A list of some of the events I've been to in reverse chronological order.  </p>
+
+* [Google Web Security Summit 2018](https://sites.google.com/a/google.com/security-summit-2018/)
 * [Summer school on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2018/)
 * [3rd IEEE European Symposium on Security and Privacy (EuroS&P)](https://www.ieee-security.org/TC/EuroSP2018/)
 * [33rd Chaos Communication Congress (33c3)](https://www.ccc.de/en/)
-* [2nd London Crypto Party 2017](https://londoncryptoday.wordpress.com/)
+* [2nd London Cryptoday 2017](https://londoncryptoday.wordpress.com/)
 * [MWR HackFu 2016](https://hackfu.mwrinfosecurity.com/)
 
 
