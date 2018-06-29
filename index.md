@@ -31,7 +31,10 @@ For my industrial year I worked as a full time technical analyst at
 
 * **[An Empirical Analysis of Anonymity in Zcash](files/usenix18.pdf)**
   ([arxiv](https://arxiv.org/abs/1805.03180),
-  [blogpost](https://www.benthamsgaze.org/2018/05/09/the-pools-run-dry-analyzing-anonymity-in-zcash/)) <br/>
+  [blogpost](https://www.benthamsgaze.org/2018/05/09/the-pools-run-dry-analyzing-anonymity-in-zcash/), 
+  [Coindesk](https://www.coindesk.com/zcash-privacy-weakened-by-certain-behaviors-researchers-say/), 
+  [Vice](https://motherboard.vice.com/en_us/article/j5k7zp/zcash-shadow-brokers-uncover-hacking-tool-sales) 
+  ) <br/>
   George Kappos, <b>Haaroon Yousaf</b>, Mary Maller, and Sarah Meiklejohn<br/>
   27th USENIX Security Symposium (USENIX Security 18)
 
