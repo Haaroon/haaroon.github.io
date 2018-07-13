@@ -50,6 +50,7 @@ For my industrial year I worked as a full time technical analyst at
 # Events
 <p> A list of some of the events I've been to in reverse chronological order.  </p>
 
+* [The 18th Privacy Enhancing Technologies Symposium - 2018](https://petsymposium.org/)
 * [Google Web Security Summit 2018](https://sites.google.com/a/google.com/security-summit-2018/)
 * [Summer school on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2018/)
 * [3rd IEEE European Symposium on Security and Privacy (EuroS&P)](https://www.ieee-security.org/TC/EuroSP2018/)
