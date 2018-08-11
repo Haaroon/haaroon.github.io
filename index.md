@@ -33,7 +33,9 @@ For my industrial year I worked as a full time technical analyst at
   ([arxiv](https://arxiv.org/abs/1805.03180),
   [blogpost](https://www.benthamsgaze.org/2018/05/09/the-pools-run-dry-analyzing-anonymity-in-zcash/), 
   [Coindesk](https://www.coindesk.com/zcash-privacy-weakened-by-certain-behaviors-researchers-say/), 
-  [Vice](https://motherboard.vice.com/en_us/article/j5k7zp/zcash-shadow-brokers-uncover-hacking-tool-sales) 
+  [Vice](https://motherboard.vice.com/en_us/article/j5k7zp/zcash-shadow-brokers-uncover-hacking-tool-sales), 
+  [Motherboard](https://motherboard.vice.com/en_us/article/j5k7zp/zcash-shadow-brokers-uncover-hacking-tool-sales),
+  [Bitcoin Exchange Guide](https://bitcoinexchangeguide.com/zcash-crypto-transactions-on-bitfinex-to-shadow-brokers-for-nsa-stolen-code-hacking-tools-may-be-untraceable/)
   ) <br/>
   George Kappos, <b>Haaroon Yousaf</b>, Mary Maller, and Sarah Meiklejohn<br/>
   27th USENIX Security Symposium (USENIX Security 18)
