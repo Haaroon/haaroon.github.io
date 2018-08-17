@@ -3,7 +3,7 @@ layout: default
 ---
 # Bio
 
-I am a [Computer Science](http://www.cs.ucl.ac.uk/) 
+I am a second year [Computer Science](http://www.cs.ucl.ac.uk/) 
 [PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) student in
 the [Information Security Group](http://sec.cs.ucl.ac.uk/) at
 [UCL (University College London)](http://www.ucl.ac.uk). 
@@ -38,7 +38,7 @@ For my industrial year I worked as a full time technical analyst at
   [Bitcoin Exchange Guide](https://bitcoinexchangeguide.com/zcash-crypto-transactions-on-bitfinex-to-shadow-brokers-for-nsa-stolen-code-hacking-tools-may-be-untraceable/)
   ) <br/>
   George Kappos, <b>Haaroon Yousaf</b>, Mary Maller, and Sarah Meiklejohn<br/>
-  27th USENIX Security Symposium (USENIX Security 18)
+  27th USENIX Security Symposium (USENIX '18)
 
 
 # Teaching
@@ -52,6 +52,7 @@ For my industrial year I worked as a full time technical analyst at
 # Events
 <p> A list of some of the events I've been to in reverse chronological order.  </p>
 
+* [27th USENIX Security Symposium - USENIX '18](https://www.usenix.org/conference/usenixsecurity18)
 * [The 18th Privacy Enhancing Technologies Symposium - 2018](https://petsymposium.org/)
 * [Google Web Security Summit 2018](https://sites.google.com/a/google.com/security-summit-2018/)
 * [Summer school on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2018/)
