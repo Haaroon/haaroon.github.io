@@ -46,10 +46,21 @@ For my industrial year I worked as a full time technical analyst at
 
 # Teaching
 
-* 2017 - Teaching Assistant, Introduction to Programming, University College London
-* 2017 - Demonstrator, Interaction Design, University of Cambridge
-* 2016 - Teaching Assistant, Operating Systems, Queen Mary University of London
-* 2015 - Peer Assisted Student Support, Computer Science, Queen Mary University of London
+`TA unless otherwise stated`
+ 
+* 2019
+  * Cryptocurrencies, University College London
+  * System Engineering, University College London
+* 2018 
+  * System Engineering, University College London
+  * C Programming, University College London
+* 2017
+  * Introduction to Programming, University College London
+  * Demonstrator, Interaction Design, University of Cambridge
+* 2016
+  * Operating Systems, Queen Mary University of London
+* 2015
+  * Peer Assisted Student Support, Computer Science, Queen Mary University of London
 
 
 # Events
