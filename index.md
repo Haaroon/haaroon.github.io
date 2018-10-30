@@ -29,7 +29,11 @@ For my industrial year I worked as a full time technical analyst at
 
 # Publications
 
-* **[Why is a Ravencoin Like a TokenDesk? An Exploration of Code Diversity in the Cryptocurrency Landscape](files/ravencoin.pdf)** <br/>
+* **[Tracing Transaction Across Cryptocurrency Ledgers](files/shapeshift.pdf)** <br/>
+  <b>Haaroon Yousaf</b>, George Kappos and Sarah Meiklejohn<br/>
+
+* **[Why is a Ravencoin Like a TokenDesk? An Exploration of Code Diversity in the Cryptocurrency Landscape](files/ravencoin.pdf)** 
+([arxiv](https://arxiv.org/abs/1810.08420))<br/>
   Pierre Reibel, <b>Haaroon Yousaf</b>, and Sarah Meiklejohn<br/>
   
 * **[An Empirical Analysis of Anonymity in Zcash](files/usenix18.pdf)**
