@@ -47,6 +47,7 @@ For my industrial year I worked as a full time technical analyst at
   George Kappos, <b>Haaroon Yousaf</b>, Mary Maller, and Sarah Meiklejohn<br/>
   27th USENIX Security Symposium (USENIX '18)
 
+[Other research papers done by my colleages can be found here http://blockchains.cs.ucl.ac.uk/](http://blockchains.cs.ucl.ac.uk/)
 
 # Teaching
 
