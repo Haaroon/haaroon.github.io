@@ -72,12 +72,13 @@ For my industrial year I worked as a full time technical analyst at
 # Events
 <p> A list of some of the events I've been to in reverse chronological order.  </p>
 
+* [35th Chaos Communication Congress (35c3)](https://www.ccc.de/en/)
 * [27th USENIX Security Symposium - USENIX '18](https://www.usenix.org/conference/usenixsecurity18)
-* [The 18th Privacy Enhancing Technologies Symposium - 2018](https://petsymposium.org/)
-* [Google Web Security Summit 2018](https://sites.google.com/a/google.com/security-summit-2018/)
+* [The 18th Privacy Enhancing Technologies Symposium - 2018 (presented a short poster on privacy in crytocurrencies)](https://petsymposium.org/)
+* [Google Web Security Summit 2018 (presented a paper on Zcash research)](https://sites.google.com/a/google.com/security-summit-2018/)
 * [Summer school on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2018/)
 * [3rd IEEE European Symposium on Security and Privacy (EuroS&P)](https://www.ieee-security.org/TC/EuroSP2018/)
-* [33rd Chaos Communication Congress (33c3)](https://www.ccc.de/en/)
+* [34th Chaos Communication Congress (34c3)](https://www.ccc.de/en/)
 * [2nd London Cryptoday 2017](https://londoncryptoday.wordpress.com/)
 * [MWR HackFu 2016](https://hackfu.mwrinfosecurity.com/)
 
