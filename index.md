@@ -29,7 +29,7 @@ For my industrial year I worked as a full time technical analyst at
 
 # Publications
 
-* **[Tracing Transaction Across Cryptocurrency Ledgers](files/shapeshift.pdf)** <br/>
+* **[Tracing Transactions Across Cryptocurrency Ledgers](files/shapeshift.pdf)** <br/>
   <b>Haaroon Yousaf</b>, George Kappos and Sarah Meiklejohn<br/>
 
 * **[Why is a Ravencoin Like a TokenDesk? An Exploration of Code Diversity in the Cryptocurrency Landscape](files/ravencoin.pdf)** 
