@@ -36,6 +36,10 @@ For my industrial year I worked as a full time technical analyst at
 ([arxiv - long version](https://arxiv.org/abs/1810.08420), [short version](files/ravencoin_short.pdf))<br/>
   Pierre Reibel, <b>Haaroon Yousaf</b>, and Sarah Meiklejohn<br/>
   Financial Cryptography and Data Security 2019 <br/>
+
+* **[Incentivising Privacy in Cryptocurrencies, Short Paper & Poster](files/incentivising.pdf)** ([arxiv](https://arxiv.org/abs/1901.02695))<br/>
+  Sarah Azouvi, <b> Haaroon Yousaf</b>, Alexander Hicks<br/>
+  OPERANDI 2018
   
 * **[An Empirical Analysis of Anonymity in Zcash](files/usenix18.pdf)**
   ([arxiv](https://arxiv.org/abs/1805.03180),
@@ -74,7 +78,7 @@ For my industrial year I worked as a full time technical analyst at
 
 * [35th Chaos Communication Congress (35c3)](https://www.ccc.de/en/)
 * [27th USENIX Security Symposium - USENIX '18](https://www.usenix.org/conference/usenixsecurity18)
-* [The 18th Privacy Enhancing Technologies Symposium - 2018 (presented a short poster on privacy in cryptocurrencies)](https://petsymposium.org/)
+* [The 18th Privacy Enhancing Technologies Symposium - 2018](https://petsymposium.org/)(presented a short poster on privacy in cryptocurrencies, see OPERANDI 2018 above)
 * [Google Web Security Summit 2018 (presented a paper on Zcash research)](https://sites.google.com/a/google.com/security-summit-2018/)
 * [Summer school on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2018/)
 * [3rd IEEE European Symposium on Security and Privacy (EuroS&P)](https://www.ieee-security.org/TC/EuroSP2018/)
