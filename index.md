@@ -8,10 +8,11 @@ I am a second year [Computer Science](http://www.cs.ucl.ac.uk/)
 the [Information Security Group](http://sec.cs.ucl.ac.uk/) at
 [UCL (University College London)](http://www.ucl.ac.uk). 
 Researching Cryptocurrencies and Underground Markets under the supervision 
-of [Dr Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/) and 
-[Professor Jens Groth](http://www0.cs.ucl.ac.uk/staff/j.groth/), supported by 
+of [Dr Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/) (in the past with 
+[Professor Jens Groth](http://www0.cs.ucl.ac.uk/staff/j.groth/)), supported by 
 the [EU 2020 project](https://ec.europa.eu/programmes/horizon2020/). 
 I am also apart of the [Initiative for Cryptocurrencies and Contracts (IC3)](http://www.initc3.org/).
+Majority of my collaborations are with my colleague [George Kappos](https://georgekap.github.io/).
 
 My history is as follows, 
 I completed a [Masters of Philosophy (MPhil)](https://en.wikipedia.org/wiki/Master_of_Philosophy) 
@@ -106,3 +107,5 @@ Please get in contact. If I have the time (and interest) we may be able to work 
   <b>Email</b>: <a href="mailto:h[dot]yousaf[at]ucl[dot]ac[dot]uk?Subject=I%20Come%20From%20Your%20Website" target="_top">h[dot]yousaf[at]ucl[dot]ac[dot]uk</a><br/>
 * [GitHub](https://github.com/haaroon)
 * [LinkedIn](https://www.linkedin.com/in/haaroonyousaf/)
+
+[You can click here to see what I may look like.](files/me.jpg)
