@@ -55,15 +55,19 @@ For my industrial year I worked as a full time technical analyst at
 
 [Other research papers done by my colleagues can be found here http://blockchains.cs.ucl.ac.uk/](http://blockchains.cs.ucl.ac.uk/)
 
+# Talks
+
+I've given talks at Elliptic, WorkOnBlockchain, London Blockchain PhD Meetup, Interpol, UCL and probobaly others I cant remember. 
+
 # Teaching
 
 `TA unless otherwise stated`
  
 * 2019
   * Cryptocurrencies, University College London
-  * System Engineering, University College London
+  * Systems Engineering, University College London
 * 2018 
-  * System Engineering, University College London
+  * Systems Engineering, University College London
   * C Programming, University College London
 * 2017
   * Introduction to Programming, University College London
@@ -89,10 +93,7 @@ For my industrial year I worked as a full time technical analyst at
 
 
 # Consulting
-<p>
-If you have any projects that I may be intested in and you'd like advise on, 
-Please get in contact. If I have the time (and interest) we may be able to work something out.  
-</p>
+<p> Sorry I very busy right now, no can do. </p>
 
 # Contact
 
