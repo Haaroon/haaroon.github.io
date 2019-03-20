@@ -62,7 +62,7 @@ For my industrial year I worked as a full time technical analyst at
 I've given talks at Elliptic, WorkOnBlockchain, London Blockchain PhD Meetup, Interpol, UCL and probobaly others I cant remember. 
 
 ## Slides 
-[Learn the basics of multi-input clustering in cryptocurrencies](files/talks/multi-input.pdf)
+[Learn the basics of multi-input clustering in cryptocurrencies](files/talks/multi_input_clustering_talk.pdf)
 
 [Slides for An Empirical Analysis of Anonymity in Zcash Talk](files/talks/empirical_analysis_zcash_talk.pdf)
 
