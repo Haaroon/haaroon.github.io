@@ -2,7 +2,6 @@
 layout: default
 ---
 # Bio
-
 I am a second year [Computer Science](http://www.cs.ucl.ac.uk/) 
 [PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) student in
 the [Information Security Group](http://sec.cs.ucl.ac.uk/) at
@@ -59,7 +58,7 @@ For my industrial year I worked as a full time technical analyst at
 
 # Talks
 
-I've given talks at Elliptic, WorkOnBlockchain, London Blockchain PhD Meetup, Interpol, UCL and probobaly others I cant remember. 
+I've given talks at Elliptic, WorkOnBlockchain, Kings College London, London Blockchain PhD Meetup, Interpol, UCL and probobaly others I cant remember. 
 
 ## Slides 
 [Learn the basics of multi-input clustering in cryptocurrencies](files/talks/multi_input_clustering_talk.pdf)
