@@ -30,7 +30,8 @@ For my industrial year I worked as a full time technical analyst at
 
 # Publications
 
-* **[Tracing Transactions Across Cryptocurrency Ledgers](files/shapeshift.pdf)** <br/>
+* **[Tracing Transactions Across Cryptocurrency Ledgers](files/shapeshift.pdf)** 
+([slides](files/talks/tracing_transactions_shapeshift_talk.pdf))<br/>
   <b>Haaroon Yousaf</b>, George Kappos and Sarah Meiklejohn<br/>
 
 * **[Why is a Ravencoin Like a TokenDesk? An Exploration of Code Diversity in the Cryptocurrency Landscape](files/ravencoin.pdf)** 
@@ -45,6 +46,7 @@ For my industrial year I worked as a full time technical analyst at
 * **[An Empirical Analysis of Anonymity in Zcash](files/usenix18.pdf)**
   ([arxiv](https://arxiv.org/abs/1805.03180),
   [blogpost](https://www.benthamsgaze.org/2018/05/09/the-pools-run-dry-analyzing-anonymity-in-zcash/), 
+  [slides](files/talks/empirical_analysis_zcash_talk.pdf),
   [Coindesk](https://www.coindesk.com/zcash-privacy-weakened-by-certain-behaviors-researchers-say/), 
   [Vice](https://motherboard.vice.com/en_us/article/j5k7zp/zcash-shadow-brokers-uncover-hacking-tool-sales), 
   [Motherboard](https://motherboard.vice.com/en_us/article/j5k7zp/zcash-shadow-brokers-uncover-hacking-tool-sales),
@@ -58,6 +60,14 @@ For my industrial year I worked as a full time technical analyst at
 # Talks
 
 I've given talks at Elliptic, WorkOnBlockchain, London Blockchain PhD Meetup, Interpol, UCL and probobaly others I cant remember. 
+
+## Slides 
+[Learn the basics of multi-input clustering in cryptocurrencies](files/talks/multi-input.pdf)
+
+[Slides for An Empirical Analysis of Anonymity in Zcash Talk](files/talks/empirical_analysis_zcash_talk.pdf)
+
+[Slides for Tracing Transactions Across Cryptocurrency Ledgers](files/talks/tracing_transactions_shapeshift_talk.pdf)
+
 
 # Teaching
 
