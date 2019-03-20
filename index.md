@@ -12,7 +12,6 @@ of [Dr Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/) (in the p
 [Professor Jens Groth](http://www0.cs.ucl.ac.uk/staff/j.groth/)), supported by 
 the [EU 2020 project](https://ec.europa.eu/programmes/horizon2020/). 
 I am also apart of the [Initiative for Cryptocurrencies and Contracts (IC3)](http://www.initc3.org/).
-Majority of my collaborations are with my colleague [George Kappos](https://georgekap.github.io/).
 
 My history is as follows, 
 I completed a [Masters of Philosophy (MPhil)](https://en.wikipedia.org/wiki/Master_of_Philosophy) 
@@ -88,6 +87,7 @@ I've given talks at Elliptic, WorkOnBlockchain, London Blockchain PhD Meetup, In
 * 2015
   * Peer Assisted Student Support, Computer Science, Queen Mary University of London
 
+Majority of my supervisions are with my colleagues [George Kappos](https://georgekap.github.io/) and [Sarah Meiklejohn](https://smeiklej.com/).
 
 # Events
 <p> A list of some of the events I've been to in reverse chronological order.  </p>
