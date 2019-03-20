@@ -48,6 +48,7 @@ For my industrial year I worked as a full time technical analyst at
   [blogpost](https://www.benthamsgaze.org/2018/05/09/the-pools-run-dry-analyzing-anonymity-in-zcash/), 
   [slides](files/talks/empirical_analysis_zcash_talk.pdf),
   [Coindesk](https://www.coindesk.com/zcash-privacy-weakened-by-certain-behaviors-researchers-say/), 
+  [The Morning Paper](https://blog.acolyer.org/2018/09/14/an-empirical-analysis-of-anonymity-in-zcash/),
   [Vice](https://motherboard.vice.com/en_us/article/j5k7zp/zcash-shadow-brokers-uncover-hacking-tool-sales), 
   [Motherboard](https://motherboard.vice.com/en_us/article/j5k7zp/zcash-shadow-brokers-uncover-hacking-tool-sales),
   [Bitcoin Exchange Guide](https://bitcoinexchangeguide.com/zcash-crypto-transactions-on-bitfinex-to-shadow-brokers-for-nsa-stolen-code-hacking-tools-may-be-untraceable/)
