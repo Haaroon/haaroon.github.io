@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+### Updates
+I have moved office and now sit in 622 MPEB
+
 # Bio
 I am a second year [Computer Science](http://www.cs.ucl.ac.uk/) 
 [PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) student in
@@ -108,6 +111,7 @@ Majority of my supervisions are with my colleagues [George Kappos](https://georg
 # Contact
 
   <b>Address<br/></b>
+  622 MPEB<br/>
   University College London<br/>
   Dept. of Computer Science<br/>
   Gower Street<br/>
