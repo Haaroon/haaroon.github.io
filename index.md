@@ -104,6 +104,7 @@ Majority of my supervisions are with my colleagues [George Kappos](https://georg
 * [34th Chaos Communication Congress (34c3)](https://www.ccc.de/en/)
 * [2nd London Cryptoday 2017](https://londoncryptoday.wordpress.com/)
 * [MWR HackFu 2016](https://hackfu.mwrinfosecurity.com/)
+* [Facebook London Hackathon 2013](http://facebook.com/londonhackathon)
 
 
 # Consulting
