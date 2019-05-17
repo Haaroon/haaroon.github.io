@@ -29,7 +29,7 @@ For my industrial year I worked as a full time technical analyst at
 # Publications
 
 * **[Tracing Transactions Across Cryptocurrency Ledgers](files/usenix19-shapeshift.pdf)** 
-([slides](files/talks/tracing_transactions_shapeshift_talk.pdf),[version-1](files/shapeshift-v1.pdf))<br/>
+([slides](files/talks/tracing_transactions_shapeshift_talk.pdf),[old-version](files/shapeshift-v1.pdf))<br/>
   <b>Haaroon Yousaf</b>, George Kappos and Sarah Meiklejohn<br/>
   28th USENIX Security Symposium (USENIX '19)<br/>
   This paper looks at tracing and tracking transactions that go across different cryptocurrency ledgers making use of transactions from ShapeShift. 
