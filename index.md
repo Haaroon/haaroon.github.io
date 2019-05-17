@@ -28,9 +28,13 @@ For my industrial year I worked as a full time technical analyst at
 
 # Publications
 
-* **[Tracing Transactions Across Cryptocurrency Ledgers](files/shapeshift.pdf)** 
-([slides](files/talks/tracing_transactions_shapeshift_talk.pdf))<br/>
+* **[Tracing Transactions Across Cryptocurrency Ledgers](files/usenix19-shapeshift.pdf)** 
+([slides](files/talks/tracing_transactions_shapeshift_talk.pdf),[version-1](files/shapeshift-v1.pdf))<br/>
   <b>Haaroon Yousaf</b>, George Kappos and Sarah Meiklejohn<br/>
+  28th USENIX Security Symposium (USENIX '19)<br/>
+  This paper looks at tracing and tracking transactions that go across different cryptocurrency ledgers making use of transactions from ShapeShift. 
+  
+  <!-- This is paper is on tracing transactions across cryptocurrency ledgers using ShapeShift, Other important keywords for google are Bitcoin, ZCash, Dash, Litecoin, Bitcoin Cash, Ethereum, Ethereum Classic, ShapeShift, Tracking, Attack, Anonymisation, Anonymization, De-anonymization, de-anonymisation out. -->
 
 * **[Why is a Ravencoin Like a TokenDesk? An Exploration of Code Diversity in the Cryptocurrency Landscape](files/ravencoin.pdf)** 
 ([arxiv - long version](https://arxiv.org/abs/1810.08420), [short version](files/ravencoin_short.pdf))<br/>
