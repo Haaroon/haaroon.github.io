@@ -29,7 +29,7 @@ For my industrial year I worked as a full time technical analyst at
 # Publications
 
 * **[Tracing Transactions Across Cryptocurrency Ledgers](files/usenix19-shapeshift.pdf)** 
-([bibtex+talk](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf), [slides](files/talks/tracing_transactions_shapeshift_talk.pdf),[old-version](files/shapeshift-v1.pdf),[blog post](https://www.benthamsgaze.org/2019/08/15/tracing-transactions-across-cryptocurrency-ledgers/))<br/>
+([bibtex+talk](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf), [slides](files/talks/tracing_transactions_shapeshift_talk.pdf),[old-paper-version](files/shapeshift-v1.pdf),[blogpost](https://www.benthamsgaze.org/2019/08/15/tracing-transactions-across-cryptocurrency-ledgers/))<br/>
   <b>Haaroon Yousaf</b>, George Kappos and Sarah Meiklejohn<br/>
   28th USENIX Security Symposium (USENIX '19)<br/>
   This paper looks at tracing and tracking transactions that go across different cryptocurrency ledgers making use of transactions from ShapeShift. 
@@ -46,7 +46,7 @@ For my industrial year I worked as a full time technical analyst at
   OPERANDI 2018
   
 * **[An Empirical Analysis of Anonymity in Zcash](files/usenix18.pdf)**
-  ([bibtex+talk](https://www.usenix.org/conference/usenixsecurity18/presentation/kappos)
+  ([bibtex+talk](https://www.usenix.org/conference/usenixsecurity18/presentation/kappos),
   [arxiv](https://arxiv.org/abs/1805.03180),
   [blogpost](https://www.benthamsgaze.org/2018/05/09/the-pools-run-dry-analyzing-anonymity-in-zcash/), 
   [slides](files/talks/empirical_analysis_zcash_talk.pdf),
