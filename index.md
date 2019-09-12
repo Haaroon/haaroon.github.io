@@ -2,7 +2,7 @@
 layout: default
 ---
 # Bio
-I am a second year [Computer Science](http://www.cs.ucl.ac.uk/) 
+I am a third year [Computer Science](http://www.cs.ucl.ac.uk/) 
 [PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) student in
 the [Information Security Group](http://sec.cs.ucl.ac.uk/) at
 [UCL (University College London)](http://www.ucl.ac.uk). 
