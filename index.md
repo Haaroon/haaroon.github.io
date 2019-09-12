@@ -128,5 +128,6 @@ Majority of my supervisions are with my colleagues [George Kappos](https://georg
 * [GitHub](https://github.com/haaroon)
 * [LinkedIn](https://www.linkedin.com/in/haaroonyousaf/)
 
-[You can click here to see what I may look like.](files/me.jpg)
-[Here is a HD version of me covering my head with a cap.](files/190307_j-tye_ucl_42_headshots-4897_33743753658_o.jpg)
+[You can click here to see what I may look like when I try to dress nice.](files/me.jpg)
+
+[Here is another, more HD photo of me covering my head with a cap.](files/190307_j-tye_ucl_42_headshots-4897_33743753658_o.jpg)
