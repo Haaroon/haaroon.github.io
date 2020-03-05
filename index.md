@@ -116,7 +116,7 @@ Majority of my supervisions are with my colleagues [George Kappos](https://georg
 # Contact
 
   <b>Address<br/></b>
-  622 Malet Place Engineering Building <br/>
+  Malet Place Engineering Building <br/>
   University College London<br/>
   Dept. of Computer Science<br/>
   Gower Street<br/>
