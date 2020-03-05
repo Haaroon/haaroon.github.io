@@ -130,4 +130,4 @@ Majority of my supervisions are with my colleagues [George Kappos](https://georg
 
 [You can click here to see what I may look like when I try to dress nice.](files/me.jpg)
 
-[Here is another, more HD photo of me covering my head with a cap. I find caps are a necessary piece of head wear for privacy and retaining heat, thus I often wear one each day in all permitted occasions.](files/190307_j-tye_ucl_42_headshots-4897_33743753658_o.jpg)
+[Here is another, more HD photo of me covering my head with a cap. Why do I wear a cap, cause I want to.](files/190307_j-tye_ucl_42_headshots-4897_33743753658_o.jpg)
