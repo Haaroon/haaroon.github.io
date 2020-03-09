@@ -80,15 +80,15 @@ I've given talks at Elliptic, WorkOnBlockchain, Kings College London, London Blo
 `TA unless otherwise stated`
  
 * 2019/20
-  * Cryptocurrencies, University College London
   * Systems Engineering, University College London
   * Security, University College London
 * 2018/19
-  * Systems Engineering, University College London
   * C Programming, University College London
+  * Systems Engineering, University College London
+  * Cryptocurrencies, University College London
 * 2017/18
-  * Introduction to Programming, University College London
   * Demonstrator, Interaction Design, University of Cambridge
+  * Introduction to Programming, University College London
 * 2016/17
   * Operating Systems, Queen Mary University of London
 * 2015/16
