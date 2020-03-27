@@ -65,7 +65,7 @@ Much of my research is done in collaboration with my colleagues [Sarah Meiklejoh
 
 # Talks
 
-I've given talks at Elliptic, WorkOnBlockchain, Kings College London, London Blockchain PhD Meetup, Interpol, UCL and probobaly others I cant remember. 
+I've given talks at Elliptic, WorkOnBlockchain, Kings College London, London Blockchain PhD Meetup, Interpol, UCL, IC3, Chainalysis and probobaly others I cant remember. 
 
 ## Slides 
 [Learn the basics of multi-input clustering in cryptocurrencies](files/talks/multi_input_clustering_talk.pdf)
@@ -94,11 +94,15 @@ I've given talks at Elliptic, WorkOnBlockchain, Kings College London, London Blo
 * 2015/16
   * Peer Assisted Student Support, Computer Science, Queen Mary University of London
 
-Majority of my supervisions are with my colleagues [George Kappos](https://georgekap.github.io/) and [Sarah Meiklejohn](https://smeiklej.com/).
+Majority of my supervisions are with my amazing one-of-a-kind colleagues [George Kappos](https://georgekap.github.io/) and [Sarah Meiklejohn](https://smeiklej.com/).
 
 # Events
 <p> A list of some of the events I've been to in reverse chronological order.  </p>
 
+* Isolation Station
+* [36th Chaos Communication Congress (36c3)](https://www.ccc.de/en/)
+* [IC3 2019 Fall Retreat](https://www.initc3.org/events/2019-11-22-IC3-2019-Fall-Retreat.html)
+* [28th USENIX Security Symposium - USENIX '18](https://www.usenix.org/conference/usenixsecurity19)
 * [35th Chaos Communication Congress (35c3)](https://www.ccc.de/en/)
 * [27th USENIX Security Symposium - USENIX '18](https://www.usenix.org/conference/usenixsecurity18)
 * [The 18th Privacy Enhancing Technologies Symposium - 2018](https://petsymposium.org/)(presented a short poster on privacy in cryptocurrencies, see OPERANDI 2018 above)
