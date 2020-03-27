@@ -102,7 +102,7 @@ Majority of my supervisions are with my amazing one-of-a-kind colleagues [George
 * Isolation Station
 * [36th Chaos Communication Congress (36c3)](https://www.ccc.de/en/)
 * [IC3 2019 Fall Retreat](https://www.initc3.org/events/2019-11-22-IC3-2019-Fall-Retreat.html)
-* [28th USENIX Security Symposium - USENIX '18](https://www.usenix.org/conference/usenixsecurity19)
+* [28th USENIX Security Symposium - USENIX '19](https://www.usenix.org/conference/usenixsecurity19)
 * [35th Chaos Communication Congress (35c3)](https://www.ccc.de/en/)
 * [27th USENIX Security Symposium - USENIX '18](https://www.usenix.org/conference/usenixsecurity18)
 * [The 18th Privacy Enhancing Technologies Symposium - 2018](https://petsymposium.org/)(presented a short poster on privacy in cryptocurrencies, see OPERANDI 2018 above)
