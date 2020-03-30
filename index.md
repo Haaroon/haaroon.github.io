@@ -28,6 +28,12 @@ For my industrial year I worked as a full time technical analyst at
 
 # Publications
 
+* **[An Empirical Analysis of Privacy in the Lightning Network](files/ln_paper.pdf)** 
+([arXiv](https://arxiv.org/abs/2003.12470)) <br/>
+  George Kappos, <b>Haaroon Yousaf</b>, Ania Piotrowska, Sanket Kanjalkar, Sergi Delgado-Segura, Andrew Miller and Sarah Meiklejohn<br/>
+  Pre-print arXiv<br/>
+  This paper analyses privacy in the lightning network. 
+
 * **[Tracing Transactions Across Cryptocurrency Ledgers](files/usenix19-shapeshift.pdf)** 
 ([bibtex+talk](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf), [slides](files/talks/tracing_transactions_shapeshift_talk.pdf), [old-paper-version](files/shapeshift-v1.pdf), [blogpost](https://www.benthamsgaze.org/2019/08/15/tracing-transactions-across-cryptocurrency-ledgers/), [MIT Technology Review](https://www.technologyreview.com/s/614213/some-crypto-criminals-think-jumping-across-blockchains-covers-their-tracks-big-mistake/) <br/>
   <b>Haaroon Yousaf</b>, George Kappos and Sarah Meiklejohn<br/>
