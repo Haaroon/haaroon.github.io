@@ -71,7 +71,7 @@ Much of my research is done in collaboration with my colleagues [Sarah Meiklejoh
 
 # Talks
 
-I've given talks at Elliptic, WorkOnBlockchain, Kings College London, London Blockchain PhD Meetup, Interpol, UCL, IC3, Chainalysis and probobaly others I cant remember. 
+I've given talks at [Elliptic](https://www.elliptic.co/), [WorkOnBlockchain](https://workonblockchain.com/), Kings College London, London Blockchain PhD Meetup, [Interpol](https://www.interpol.int/), UCL, [The Initiative For CryptoCurrencies & Contracts (IC3)](https://www.initc3.org/), [Chainalysis](https://www.chainalysis.com/), Conferences (USENIX, AFT) and probobaly others I cant remember. 
 
 ## Slides 
 [Learn the basics of multi-input clustering in cryptocurrencies](files/talks/multi_input_clustering_talk.pdf)
@@ -108,17 +108,18 @@ Majority of my supervisions are with my amazing one-of-a-kind colleagues [George
 * Isolation Station
 * [36th Chaos Communication Congress (36c3)](https://www.ccc.de/en/)
 * [IC3 2019 Fall Retreat](https://www.initc3.org/events/2019-11-22-IC3-2019-Fall-Retreat.html)
+* [Advances in Financial Technology (AFT) 2019](http://web.archive.org/web/20190617073926/https://aft.acm.org/) (Invited speaker)
 * [28th USENIX Security Symposium - USENIX '19](https://www.usenix.org/conference/usenixsecurity19)
 * [35th Chaos Communication Congress (35c3)](https://www.ccc.de/en/)
 * [27th USENIX Security Symposium - USENIX '18](https://www.usenix.org/conference/usenixsecurity18)
 * [The 18th Privacy Enhancing Technologies Symposium - 2018](https://petsymposium.org/)(presented a short poster on privacy in cryptocurrencies, see OPERANDI 2018 above)
-* [Google Web Security Summit 2018 (presented a paper on Zcash research)](https://sites.google.com/a/google.com/security-summit-2018/)
-* [Summer school on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2018/)
+* [Google Web Security Summit 2018](https://sites.google.com/a/google.com/security-summit-2018/) (presented a paper on Zcash research)
+* [Summer school on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2018/)(I highly recommend this summer school! It was really fun.)
 * [3rd IEEE European Symposium on Security and Privacy (EuroS&P)](https://www.ieee-security.org/TC/EuroSP2018/)
 * [34th Chaos Communication Congress (34c3)](https://www.ccc.de/en/)
 * [2nd London Cryptoday 2017](https://londoncryptoday.wordpress.com/)
-* [MWR HackFu 2016](https://hackfu.mwrinfosecurity.com/)
-* [Facebook London Hackathon 2013](http://facebook.com/londonhackathon)
+* [MWR HackFu 2016](https://hackfu.mwrinfosecurity.com/)(My first security-based hackathon!)
+* [Facebook London Hackathon 2013](http://facebook.com/londonhackathon)(My first hackathon!)
 
 
 # Consulting
