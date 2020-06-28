@@ -142,7 +142,7 @@ Majority of my supervisions are with my amazing one-of-a-kind colleagues [George
 
 [You can click here to see what I may look like when I try to dress nice.](files/me.jpg)
 
-[Here is another, more HD photo of me covering my head with a cap and no shapeup_no_filter. Why do I wear a cap, cause I want to.](files/190307_j-tye_ucl_42_headshots-4897_33743753658_o.jpg)
+[Here is another,me during the rona.](files/me_corona.JPG)
 
 
 FYI this site also uses Google Analytics. Sorry for privacy and that. 
