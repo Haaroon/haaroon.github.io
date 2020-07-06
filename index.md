@@ -18,7 +18,7 @@ in [Advanced Computer Science](https://www.cl.cam.ac.uk/admissions/acs/) at the
 [University of Cambridge](http://www.cam.ac.uk/) under supervision of 
 [Dr Richard Clayton](https://www.cl.cam.ac.uk/~rnc1/). 
 My project was on "Discerning Patterns in the Compromise of Websites". I completed an 
-undergraduate degree in [Computer Science with Industrial Expereince](http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79923.html) 
+undergraduate degree in [Computer Science with Industrial Experience](http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79923.html) 
 at [Queen Mary, University of London](http://www.eecs.qmul.ac.uk/). With my thesis under 
 the supervision of [Dr Paulo Oliva](http://www.eecs.qmul.ac.uk/~pbo/).
 
