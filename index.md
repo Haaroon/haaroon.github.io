@@ -7,7 +7,7 @@ I am a third year [Computer Science](http://www.cs.ucl.ac.uk/)
 the [Information Security Group](http://sec.cs.ucl.ac.uk/) at
 [UCL (University College London)](http://www.ucl.ac.uk). 
 Researching Cryptocurrencies and Underground Markets under the supervision 
-of [Dr Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/) and
+of [Professor Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/) and
 [Professor Jens Groth](http://www0.cs.ucl.ac.uk/staff/j.groth/), supported by 
 the [EU 2020 project](https://ec.europa.eu/programmes/horizon2020/). 
 I am also apart of the [Initiative for Cryptocurrencies and Contracts (IC3)](http://www.initc3.org/).
