@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Bio
 I am a fourth year [Computer Science](http://www.cs.ucl.ac.uk/) 
 [PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) student in
 the [Information Security Group](http://sec.cs.ucl.ac.uk/) at
