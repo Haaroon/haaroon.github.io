@@ -2,7 +2,7 @@
 layout: default
 ---
 # Bio
-I am a third year [Computer Science](http://www.cs.ucl.ac.uk/) 
+I am a fourth year [Computer Science](http://www.cs.ucl.ac.uk/) 
 [PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) student in
 the [Information Security Group](http://sec.cs.ucl.ac.uk/) at
 [UCL (University College London)](http://www.ucl.ac.uk). 
@@ -11,6 +11,11 @@ of [Professor Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/) an
 [Professor Jens Groth](http://www0.cs.ucl.ac.uk/staff/j.groth/), supported by 
 the [EU 2020 project](https://ec.europa.eu/programmes/horizon2020/). 
 I am also apart of the [Initiative for Cryptocurrencies and Contracts (IC3)](http://www.initc3.org/).
+
+In 2020 I also co-founded a small start-up called [Chorograph](https://www.chorograph.com) with 
+my colleague [Ben Steer](https://scholar.google.co.uk/citations?user=JaCvFD8AAAAJ&hl=en) from Queen Mary. Our 
+specialty is distributed temporal graph analytics, since most platforms are either too slow or 
+cannot perform this kind of analytics. Come say hello. 
 
 My history is as follows, 
 I completed a [Masters of Philosophy (MPhil)](https://en.wikipedia.org/wiki/Master_of_Philosophy) 
@@ -73,12 +78,21 @@ Much of my research is done in collaboration with my colleagues [Sarah Meiklejoh
 
 I've given talks at [Elliptic](https://www.elliptic.co/), [WorkOnBlockchain](https://workonblockchain.com/), Kings College London, London Blockchain PhD Meetup, [Interpol](https://www.interpol.int/), UCL, [The Initiative For CryptoCurrencies & Contracts (IC3)](https://www.initc3.org/), [Chainalysis](https://www.chainalysis.com/), Conferences (USENIX, AFT) and probobaly others I cant remember. 
 
-## Slides 
-[Learn the basics of multi-input clustering in cryptocurrencies](files/talks/multi_input_clustering_talk.pdf)
+## Slides
 
-[Slides for An Empirical Analysis of Anonymity in Zcash Talk](files/talks/empirical_analysis_zcash_talk.pdf)
+* [Learn the basics of multi-input clustering in cryptocurrencies](files/talks/multi_input_clustering_talk.pdf)
+* [Slides for An Empirical Analysis of Anonymity in Zcash Talk](files/talks/empirical_analysis_zcash_talk.pdf)
+* [Slides for Tracing Transactions Across Cryptocurrency Ledgers](files/talks/tracing_transactions_shapeshift_talk.pdf)
 
-[Slides for Tracing Transactions Across Cryptocurrency Ledgers](files/talks/tracing_transactions_shapeshift_talk.pdf)
+
+# Blogposts 
+
+I've written and co-written a number of blog posts you may find on the internet, some of which include
+
+* [Blockchain/Bitcoin data, transactions, What does this all mean?](https://chorograph.com/blockchain-bitcoin-data-transactions-what-does-this-all-mean/)
+* [Bitcoin, Blockchain and Smart Contracts](https://chorograph.com/bitcoin-blockchain-and-smart-contracts/)
+* [Tracing transactions across cryptocurrency ledgers](https://www.benthamsgaze.org/2019/08/15/tracing-transactions-across-cryptocurrency-ledgers/), ([Re-published at Chorograph.com](https://chorograph.com/tracing-transactions-across-cryptocurrency-ledgers/))
+* [The pools run dry, Analyzing anonymity in Zcash](https://www.benthamsgaze.org/2018/05/09/the-pools-run-dry-analyzing-anonymity-in-zcash/)
 
 
 # Teaching
@@ -105,7 +119,9 @@ Majority of my supervisions are with my amazing one-of-a-kind colleagues [George
 # Events
 <p> A list of some of the events I've been to in reverse chronological order.  </p>
 
-* Isolation Station
+* [29th USENIX Security Symposium - USENIX '20 (remote)](https://www.usenix.org/conference/usenixsecurity20)
+* [IC3 2020 Blockchain Camp](https://www.initc3.org/events/2020-07-26-IC3-Blockchain-Camp.html)
+* Isolation Station (cause of this new virus)
 * [36th Chaos Communication Congress (36c3)](https://www.ccc.de/en/)
 * [IC3 2019 Fall Retreat](https://www.initc3.org/events/2019-11-22-IC3-2019-Fall-Retreat.html)
 * [Advances in Financial Technology (AFT) 2019](http://web.archive.org/web/20190617073926/https://aft.acm.org/) (Invited speaker)
