@@ -66,7 +66,8 @@ For my industrial year I worked as a full time technical analyst at
   [Vice](https://motherboard.vice.com/en_us/article/j5k7zp/zcash-shadow-brokers-uncover-hacking-tool-sales), 
   [Motherboard](https://motherboard.vice.com/en_us/article/j5k7zp/zcash-shadow-brokers-uncover-hacking-tool-sales),
   [Bitcoin Exchange Guide](https://bitcoinexchangeguide.com/zcash-crypto-transactions-on-bitfinex-to-shadow-brokers-for-nsa-stolen-code-hacking-tools-may-be-untraceable/)
-  ) <br/>
+  ), 
+  [ZCon0 Presentation by Mary Maller](https://www.youtube.com/watch?v=dP4dH_aHbdM) <br/>
   George Kappos, <b>Haaroon Yousaf</b>, Mary Maller, and Sarah Meiklejohn<br/>
   27th USENIX Security Symposium (USENIX '18)
 
