@@ -2,7 +2,7 @@
 layout: default
 ---
 I am a fourth year [Computer Science](http://www.cs.ucl.ac.uk/) 
-[PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) student in
+[PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) student/research scientist in
 the [Information Security Group](http://sec.cs.ucl.ac.uk/) at
 [UCL (University College London)](http://www.ucl.ac.uk). 
 Researching Cryptocurrencies and Underground Markets under the supervision 
