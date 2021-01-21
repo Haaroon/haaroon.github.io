@@ -32,8 +32,8 @@ For my industrial year I worked as a full time technical analyst at
 
 # Publications
 
-* **[An Empirical Analysis of Privacy in the Lightning Network](files/ln_paper.pdf)** 
-([arXiv](https://arxiv.org/abs/2003.12470), [coindesk](https://www.coindesk.com/researchers-surface-privacy-vulnerabilities-in-bitcoin-lightning-network-payments)) <br/>
+* **[An Empirical Analysis of Privacy in the Lightning Network](files/fc21-lightning_v2.pdf)** 
+([arXiv](https://arxiv.org/abs/2003.12470), [version_1](files/lightning_v1.pdf), [coindesk](https://www.coindesk.com/researchers-surface-privacy-vulnerabilities-in-bitcoin-lightning-network-payments)) <br/>
   George Kappos, <b>Haaroon Yousaf</b>, Ania Piotrowska, Sanket Kanjalkar, Sergi Delgado-Segura, Andrew Miller and Sarah Meiklejohn<br/>
   Financial Cryptography and Data Security 2021<br/>
   This paper analyses privacy in the lightning network. 
