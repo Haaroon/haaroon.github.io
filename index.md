@@ -158,8 +158,6 @@ Majority of my supervisions are with my amazing one-of-a-kind colleagues [George
 * [GitHub](https://github.com/haaroon)
 * [LinkedIn](https://www.linkedin.com/in/haaroonyousaf/)
 
-[You can click here to see what I may look like when I try to dress nice.](files/me.jpg)
-
 [Here is another,me during the rona.](files/me_corona.JPG)
 
 
