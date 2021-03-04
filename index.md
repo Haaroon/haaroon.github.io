@@ -33,7 +33,7 @@ For my industrial year I worked as a full time technical analyst at
 # Publications
 
 * **[An Empirical Analysis of Privacy in the Lightning Network](files/fc21-lightning_v2.pdf)** 
-([arXiv](https://arxiv.org/abs/2003.12470), [version_1](files/lightning_v1.pdf), [coindesk](https://www.coindesk.com/researchers-surface-privacy-vulnerabilities-in-bitcoin-lightning-network-payments)) <br/>
+ ([arXiv](https://arxiv.org/abs/2003.12470), [version_1](files/lightning_v1.pdf), [coindesk](https://www.coindesk.com/researchers-surface-privacy-vulnerabilities-in-bitcoin-lightning-network-payments), [talk](https://www.youtube.com/watch?v=K_zUA0y03AE)) <br/>
   George Kappos, <b>Haaroon Yousaf</b>, Ania Piotrowska, Sanket Kanjalkar, Sergi Delgado-Segura, Andrew Miller and Sarah Meiklejohn<br/>
   Financial Cryptography and Data Security 2021<br/>
   This paper analyses privacy in the lightning network. 
@@ -61,6 +61,7 @@ For my industrial year I worked as a full time technical analyst at
   [arxiv](https://arxiv.org/abs/1805.03180),
   [blogpost](https://www.benthamsgaze.org/2018/05/09/the-pools-run-dry-analyzing-anonymity-in-zcash/), 
   [slides](files/talks/empirical_analysis_zcash_talk.pdf),
+  [Zcash Official Response](https://electriccoin.co/blog/maintaining-privacy/),
   [Coindesk](https://www.coindesk.com/zcash-privacy-weakened-by-certain-behaviors-researchers-say/), 
   [The Morning Paper](https://blog.acolyer.org/2018/09/14/an-empirical-analysis-of-anonymity-in-zcash/),
   [Vice](https://motherboard.vice.com/en_us/article/j5k7zp/zcash-shadow-brokers-uncover-hacking-tool-sales), 
