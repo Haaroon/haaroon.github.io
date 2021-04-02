@@ -27,7 +27,7 @@ at [Queen Mary, University of London](http://www.eecs.qmul.ac.uk/). With my thes
 the supervision of [Dr Paulo Oliva](http://www.eecs.qmul.ac.uk/~pbo/).
 
 For my industrial year I worked as a full time technical analyst at 
-[Goldman Sachs](http://www.goldmansachs.com/). 
+[Goldman Sachs](http://www.goldmansachs.com/) where I delivered multiple projects into production. 
 
 
 # Publications
