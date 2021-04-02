@@ -79,7 +79,7 @@ Much of my research is done in collaboration with my colleagues [Sarah Meiklejoh
 
 # Talks
 
-I've given talks at [Elliptic](https://www.elliptic.co/), [WorkOnBlockchain](https://workonblockchain.com/), Kings College London, London Blockchain PhD Meetup, [Interpol](https://www.interpol.int/), UCL, [The Initiative For CryptoCurrencies & Contracts (IC3)](https://www.initc3.org/), [Chainalysis](https://www.chainalysis.com/), Conferences (USENIX, AFT) and probobaly others I cant remember. 
+I've given talks at [Chainalysis](https://www.chainalysis.com/), [Elliptic](https://www.elliptic.co/), [Interpol](https://www.interpol.int/), [UCL](ucl.ac.uk), [WorkOnBlockchain](https://workonblockchain.com/), Kings College London, London Blockchain PhD Meetup, [The Initiative For CryptoCurrencies & Contracts (IC3)](https://www.initc3.org/), Conferences (USENIX, AFT) and probobaly others I cant remember. 
 
 ## Slides
 
@@ -101,7 +101,8 @@ I've written and co-written a number of blog posts you may find on the internet,
 # Teaching
 
 `TA unless otherwise stated`
- 
+* 2020/21
+  * Security, University College London 
 * 2019/20
   * Systems Engineering, University College London
   * Security, University College London
@@ -121,7 +122,7 @@ Majority of my supervisions are with my amazing one-of-a-kind colleagues [George
 
 # Events
 <p> A list of some of the events I've been to in reverse chronological order.  </p>
-
+* I've been to more since but I am too busy to update this page anymore
 * [29th USENIX Security Symposium - USENIX '20 (remote)](https://www.usenix.org/conference/usenixsecurity20)
 * [IC3 2020 Blockchain Camp](https://www.initc3.org/events/2020-07-26-IC3-Blockchain-Camp.html)
 * Isolation Station (cause of this new virus)
