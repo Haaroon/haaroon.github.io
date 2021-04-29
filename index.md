@@ -11,11 +11,6 @@ of [Professor Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/) an
 the [EU 2020 project](https://ec.europa.eu/programmes/horizon2020/) and 
 the [Initiative for Cryptocurrencies and Contracts (IC3)](http://www.initc3.org/).
 
-In 2020 I also co-founded a small start-up called [Chorograph](https://www.chorograph.com) with 
-my colleague [Ben Steer](https://scholar.google.co.uk/citations?user=JaCvFD8AAAAJ&hl=en) from Queen Mary. Our 
-specialty is distributed temporal graph analytics, since most platforms are either too slow or 
-cannot perform this kind of analysis. Come say hello. 
-
 My history is as follows, 
 I completed a [Masters of Philosophy (MPhil)](https://en.wikipedia.org/wiki/Master_of_Philosophy) 
 in [Advanced Computer Science](https://www.cl.cam.ac.uk/admissions/acs/) at the
