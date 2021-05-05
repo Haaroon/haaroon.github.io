@@ -89,7 +89,7 @@ I've written and co-written a number of blog posts you may find on the internet,
 
 * [Blockchain/Bitcoin data, transactions, What does this all mean?](https://chorograph.com/blockchain-bitcoin-data-transactions-what-does-this-all-mean/)
 * [Bitcoin, Blockchain and Smart Contracts](https://chorograph.com/bitcoin-blockchain-and-smart-contracts/)
-* [Tracing transactions across cryptocurrency ledgers](https://www.benthamsgaze.org/2019/08/15/tracing-transactions-across-cryptocurrency-ledgers/), ([Re-published at Chorograph.com](https://chorograph.com/tracing-transactions-across-cryptocurrency-ledgers/))
+* [Tracing transactions across cryptocurrency ledgers](https://www.benthamsgaze.org/2019/08/15/tracing-transactions-across-cryptocurrency-ledgers/), ([Re-published](https://chorograph.com/tracing-transactions-across-cryptocurrency-ledgers/))
 * [The pools run dry, Analyzing anonymity in Zcash](https://www.benthamsgaze.org/2018/05/09/the-pools-run-dry-analyzing-anonymity-in-zcash/)
 
 
