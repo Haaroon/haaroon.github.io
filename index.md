@@ -27,8 +27,7 @@ For my industrial year I worked as a full time technical analyst at
 
 # Publications
 
-* **[Forsage: Anatomy of a Smart-Contract Pyramid Scheme](files/Forsage.pdf)** 
-* 
+* **[Forsage: Anatomy of a Smart-Contract Pyramid Scheme](files/Forsage.pdf)** <br/>
   Tyler Kell, <b>Haaroon Yousaf</b>, Sarah Allen, Sarah Meiklejohn and Ari Juels<br/>
   arXiV<br/>
   This paper analyses Forsage, a potential smart-contract pyramid from a multi-disciplinary approach. 
