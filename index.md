@@ -27,6 +27,12 @@ For my industrial year I worked as a full time technical analyst at
 
 # Publications
 
+* **[Forsage: Anatomy of a Smart-Contract Pyramid Scheme](files/Forsage.pdf)** 
+  Tyler Kell, <b>Haaroon Yousaf</b>, Sarah Allen, Sarah Meiklejohn and Ari Juels<br/>
+  arXiV<br/>
+  This paper analyses Forsage, a potential smart-contract pyramid from a multi-disciplinary approach. 
+
+
 * **[An Empirical Analysis of Privacy in the Lightning Network](files/fc21-lightning_v2.pdf)** 
  ([arXiv](https://arxiv.org/abs/2003.12470), [version_1](files/lightning_v1.pdf), [coindesk](https://www.coindesk.com/researchers-surface-privacy-vulnerabilities-in-bitcoin-lightning-network-payments), [talk](https://www.youtube.com/watch?v=K_zUA0y03AE)) <br/>
   George Kappos, <b>Haaroon Yousaf</b>, Ania Piotrowska, Sanket Kanjalkar, Sergi Delgado-Segura, Andrew Miller and Sarah Meiklejohn<br/>
