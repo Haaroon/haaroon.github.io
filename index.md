@@ -28,6 +28,11 @@ For my industrial year I worked as a full time technical analyst at
 
 # Publications
 
+* **[Investigating transactions in cryptocurrencies](files/PhDThesis.pdf)** <br/>
+  Haaroon M. Yousaf<br/>
+  UCL (University College London)<br/>
+  This is my PhD thesis accepted in 2022. Supervised by Professor Sarah Meiklejohn. 
+
 * **[Forsage: Anatomy of a Smart-Contract Pyramid Scheme](files/Forsage.pdf)** <br/>
   Tyler Kell, <b>Haaroon Yousaf</b>, Sarah Allen, Sarah Meiklejohn and Ari Juels<br/>
   arXiV<br/>
