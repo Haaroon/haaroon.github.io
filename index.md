@@ -155,19 +155,9 @@ Majority of my supervisions are with my amazing one-of-a-kind colleagues [George
 
 
 # Consulting
-<p> Sorry I very busy right now, no can do. </p>
+<p> Send me an email. Lets have a chat. </p>
 
 # Contact
-
-  <b>Address<br/></b>
-  Malet Place Engineering Building <br/>
-  University College London<br/>
-  Dept. of Computer Science<br/>
-  Gower Street<br/>
-  London<br/>
-  WC1E 6BT<br/>
-  United Kingdom<br/><br/>
-  <b>Desk Phone</b>: The desk phone has mysteriously vanished! Ow no! <br/><br/>
   <b>Email</b>: <a href="mailto:h[dot]yousaf[at]ucl[dot]ac[dot]uk?Subject=I%20Come%20From%20Your%20Website" target="_top">h[dot]yousaf[at]ucl[dot]ac[dot]uk</a><br/>
 * [GitHub](https://github.com/haaroon)
 * [LinkedIn](https://www.linkedin.com/in/haaroonyousaf/)
