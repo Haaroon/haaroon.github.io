@@ -1,18 +1,23 @@
 ---
 layout: default
 ---
-I am a fourth year [Computer Science](http://www.cs.ucl.ac.uk/) 
-[PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) student/research scientist in
+
+I work in research at [Pometry](https://www.pometry.com), a startup I co-founded in 2021, with 
+my colleague [Ben Steer](https://scholar.google.co.uk/citations?user=JaCvFD8AAAAJ&hl=en) from Queen Mary. Our 
+specialty is distributed temporal graph analytics, since most platforms are either too slow or 
+cannot perform this kind of analysis. Come say hello. 
+
+Prior to this I graduated with a [Computer Science](http://www.cs.ucl.ac.uk/) 
+[PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) from
 the [Information Security Group](http://sec.cs.ucl.ac.uk/) at
 [UCL (University College London)](http://www.ucl.ac.uk). 
-Researching Cryptocurrencies and Underground Markets under the supervision 
+Where I researched Investigating transactions in cryptocurrencies under the supervision 
 of [Professor Sarah Meiklejohn](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/) and
 [Professor Jens Groth](http://www0.cs.ucl.ac.uk/staff/j.groth/), supported by 
 the [EU 2020 project](https://ec.europa.eu/programmes/horizon2020/) and 
-the [Initiative for Cryptocurrencies and Contracts (IC3)](http://www.initc3.org/). 
-I also work for a startup [Pometry](https://www.pometry.com/). 
+the [Initiative for Cryptocurrencies and Contracts (IC3)](http://www.initc3.org/).
 
-My history is as follows, 
+Even before this: 
 I completed a [Masters of Philosophy (MPhil)](https://en.wikipedia.org/wiki/Master_of_Philosophy) 
 in [Advanced Computer Science](https://www.cl.cam.ac.uk/admissions/acs/) at the
 [University of Cambridge](http://www.cam.ac.uk/) under supervision of 
