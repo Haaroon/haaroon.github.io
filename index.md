@@ -5,7 +5,7 @@ layout: default
 I work in research at [Pometry](https://www.pometry.com), a startup I co-founded in 2021, with 
 my colleague [Ben Steer](https://scholar.google.co.uk/citations?user=JaCvFD8AAAAJ&hl=en) from Queen Mary. Our 
 specialty is distributed temporal graph analytics, since most platforms are either too slow or 
-cannot perform this kind of analysis. Come say hello. 
+cannot perform this kind of analysis. Come say hello.  
 
 Prior to this I graduated with a [Computer Science](http://www.cs.ucl.ac.uk/) 
 [PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) from
