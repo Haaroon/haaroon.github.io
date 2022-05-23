@@ -166,3 +166,5 @@ Majority of my supervisions are with my amazing one-of-a-kind colleagues [George
 
 
 FYI this site also uses Google Analytics. Sorry for privacy and that. 
+
+Duck, duck, duck, duck, duck, duck, goooose
