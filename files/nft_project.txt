@@ -1,0 +1,9 @@
+Project: NFT OpenSea Analysis
+
+Project Description: I am looking to extend Dr. Andrea Baronchelli's NFT research from https://www.nature.com/articles/s41598-021-00053-8
+on "Mapping the NFT revolution: market trends, trade networks, and visual features". 
+This project will look at extending this work, by repeating analysis with a newer dataset and extending the analysis with new project
+ideas i have thought up. This will use the open source project raphtory (https://github.com/raphtory/raphtory) and I will publish
+the dataset, methodology and script used as an open-source project once the work is done. 
+I need to download NFT data from April 2011 - May 2022. 
+Thanks 
