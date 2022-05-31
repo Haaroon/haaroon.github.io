@@ -33,6 +33,11 @@ For my industrial year I worked as a full time technical analyst at
 
 # Publications
 
+* **[How to Peel a Million: Validating and Expanding Bitcoin Clusters](files/how_to_peel.pdf)** <br/>
+  George Kappos, Haaroon Yousaf, Rainer Stütz, Sofia Rollet, Bernhard Haslhofer, Sarah Meiklejohn <br/>
+  31st USENIX Security Symposium (USENIX '22)<br/>
+  This paper presents new techniques to trace bitcoin transactions using on-chain features. 
+
 * **[Investigating transactions in cryptocurrencies](files/PhDThesis.pdf)** <br/>
   Haaroon M. Yousaf<br/>
   UCL (University College London)<br/>
