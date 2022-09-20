@@ -1,0 +1,21 @@
+# Research projects 
+
+List of projects I am interested in doing but I am busy with other things. 
+
+
+## Blockchain attacks
+
+- Graph analytics on-chain - using motifs to find common patterns 
+- Doing 51% attacks on live shit-coins
+- Defi Trading attacks and vulns 
+
+## Car hacking
+
+- Can bus research
+- Car Immobiliser research. How secure are they? e.g. Pandora, Autowatch Ghost II etc. 
+- Car tracker research. How does these Cat5 and Cat7 trackers work, how can you disarm them. How can you make them stronger. 
+
+
+## How do private email relay services work
+
+- Firefox relay vs SimpleLogin vs AnonAddy. How do they work. Are they secure as they claim? 
