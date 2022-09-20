@@ -3,7 +3,7 @@ layout: default
 ---
 
 I work in research at [Pometry](https://www.pometry.com), a startup I co-founded in 2021, with 
-my colleague [Ben Steer](https://scholar.google.co.uk/citations?user=JaCvFD8AAAAJ&hl=en) from Queen Mary. Our 
+my colleague [Ben Steer](https://scholar.google.co.uk/citations?user=JaCvFD8AAAAJ&hl=en) & Alhamza Alnaimi both from Queen Mary and James Alford. Our 
 specialty is distributed temporal graph analytics, since most platforms are either too slow or 
 cannot perform this kind of analysis. Come say hello.  
 
