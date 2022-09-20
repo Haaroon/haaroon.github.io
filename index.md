@@ -159,6 +159,11 @@ Majority of my supervisions are with my amazing one-of-a-kind colleagues [George
 * [Facebook London Hackathon 2013](http://facebook.com/londonhackathon)(My first hackathon!)
 
 
+# Projects
+
+I am interested in a number of security projects. Either I am doing it myself or you can do it and I will help guide you. 
+[See this link for more info](files/future_research.txt)
+
 # Consulting
 <p> Send me an email. Lets have a chat. </p>
 
