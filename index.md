@@ -181,3 +181,4 @@ FYI this site also uses Google Analytics. Sorry for privacy and that.
 
 Duck, duck, duck, duck, duck, duck, goooose
 
+If you have scrolled this far then you've activated my trap card. Be gone to lumbridge 
