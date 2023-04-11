@@ -7,6 +7,8 @@ my colleague [Ben Steer](https://scholar.google.co.uk/citations?user=JaCvFD8AAAA
 specialty is distributed temporal graph analytics, since most platforms are either too slow or 
 cannot perform this kind of analysis. Come say hello.  
 
+I also am on the technical committee for the [Initiative for Cryptocurrencies and Contracts (IC3)](http://www.initc3.org/). We hold bi-annual camps, retreats and research all the good things in blockchain, cryptocurrencies and cryptography! Do check us out. 
+
 Prior to this I graduated with a [Computer Science](http://www.cs.ucl.ac.uk/) 
 [PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) from
 the [Information Security Group](http://sec.cs.ucl.ac.uk/) at
