@@ -181,4 +181,7 @@ FYI this site also uses Google Analytics. Sorry for privacy and that.
 
 Duck, duck, duck, duck, duck, duck, goooose
 
-If you have scrolled this far then you've activated my trap card. Be gone to lumbridge 
+If you have scrolled this far then you've activated my trap card. Be gone to the wildy 
+
+<img src="https://www.cardmaker.net/uploads/monthly_2020_04/1951537624_customcardwildernessencounter.thumb.JPG.7b42b4d519edccd702cead5b107051a0.JPG" alt="trap card">
+
