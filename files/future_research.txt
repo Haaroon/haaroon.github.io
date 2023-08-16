@@ -15,6 +15,10 @@ List of projects I am interested in doing but I am busy with other things.
 - Car Immobiliser research. How secure are they? e.g. Pandora, Autowatch Ghost II etc. 
 - Car tracker research. How does these Cat5 and Cat7 trackers work, how can you disarm them. How can you make them stronger. 
 
+## Flipper Zero
+
+- Can we use the flipper zero to generate legitimate gen II pokemons that we can use to trade to Gen II Pokemon games on the GameBoy Color? 
+
 
 ## How do private email relay services work
 
