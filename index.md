@@ -35,7 +35,7 @@ For my industrial year I worked as a full time technical analyst at
 
 # Publications
 
-* **[How to Peel a Million: Validating and Expanding Bitcoin Clusters](files/how_to_peel.pdf)** <br/>
+* **[How to Peel a Million: Validating and Expanding Bitcoin Clusters](files/how_to_peel.pdf)** ([Usenix](https://www.usenix.org/system/files/sec22-kappos.pdf))<br/>
   George Kappos, Haaroon Yousaf, Rainer Stütz, Sofia Rollet, Bernhard Haslhofer, Sarah Meiklejohn <br/>
   31st USENIX Security Symposium (USENIX '22)<br/>
   This paper presents new techniques to trace bitcoin transactions using on-chain features. 
@@ -45,7 +45,7 @@ For my industrial year I worked as a full time technical analyst at
   UCL (University College London)<br/>
   This is my PhD thesis accepted in 2022. Supervised by Professor Sarah Meiklejohn. 
 
-* **[Forsage: Anatomy of a Smart-Contract Pyramid Scheme](files/Forsage.pdf)** <br/>
+* **[Forsage: Anatomy of a Smart-Contract Pyramid Scheme](files/Forsage.pdf)** ([arXiv](https://arxiv.org/abs/2105.04380), [Financial Cryptography 2023](https://fc23.ifca.ai/preproceedings/31.pdf]))<br/>
   Tyler Kell, <b>Haaroon Yousaf</b>, Sarah Allen, Sarah Meiklejohn and Ari Juels<br/>
   Financial Cryptography 2023<br/>
   This paper analyses Forsage, a potential smart-contract pyramid from a multi-disciplinary approach. 
