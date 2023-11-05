@@ -38,7 +38,7 @@ Well, I was studying at school, playing video games, hacking game consoles, wrot
 
 # Publications
 
-* **[How to Peel a Million: Validating and Expanding Bitcoin Clusters](files/how_to_peel.pdf)** ([Usenix](https://www.usenix.org/system/files/sec22-kappos.pdf))<br/>
+* **[How to Peel a Million: Validating and Expanding Bitcoin Clusters](files/how_to_peel.pdf)** ([Usenix](https://www.usenix.org/system/files/sec22-kappos.pdf), [Blogpost](https://medium.com/initc3org/red-flags-for-smart-contract-pyramid-schemes-in-2021-f017022c1e5c))<br/>
   George Kappos, Haaroon Yousaf, Rainer Stütz, Sofia Rollet, Bernhard Haslhofer, Sarah Meiklejohn <br/>
   31st USENIX Security Symposium (USENIX '22)<br/>
   This paper presents new techniques to trace bitcoin transactions using on-chain features. 
