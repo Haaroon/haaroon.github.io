@@ -32,6 +32,9 @@ the supervision of [Dr Paulo Oliva](http://www.eecs.qmul.ac.uk/~pbo/).
 For my industrial year I worked as a full time technical analyst at 
 [Goldman Sachs](http://www.goldmansachs.com/) where I delivered multiple projects into production. 
 
+And even before this: 
+Well, I was studying at school, playing video games, hacking game consoles, wrote a Call of duty zombies map, and above all else, enjoyed a life completely oblivious to the complexities and evilness of the world. 
+
 
 # Publications
 
@@ -117,7 +120,7 @@ I've written and co-written a number of blog posts you may find on the internet,
 * [The pools run dry, Analyzing anonymity in Zcash](https://www.benthamsgaze.org/2018/05/09/the-pools-run-dry-analyzing-anonymity-in-zcash/)
 
 
-# Teaching
+# Teaching (I don't anymore)
 
 `TA unless otherwise stated`
 * 2020/21
@@ -139,7 +142,8 @@ I've written and co-written a number of blog posts you may find on the internet,
 
 Majority of my supervisions are with my amazing one-of-a-kind colleagues [George Kappos](https://georgekap.github.io/) and [Sarah Meiklejohn](https://smeiklej.com/).
 
-# Events
+# Events (Not updated now, nice try nsa)
+
 <p> A list of some of the events I've been to in reverse chronological order.  </p>
 * I've been to more since but I am too busy to update this page anymore
 * [29th USENIX Security Symposium - USENIX '20 (remote)](https://www.usenix.org/conference/usenixsecurity20)
