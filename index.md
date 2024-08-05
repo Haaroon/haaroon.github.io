@@ -2,14 +2,20 @@
 layout: default
 ---
 
-I work in research at [Pometry](https://www.pometry.com), a startup I co-founded in 2021, with 
-my colleague [Ben Steer](https://scholar.google.co.uk/citations?user=JaCvFD8AAAAJ&hl=en) & Alhamza Alnaimi both from Queen Mary and James Alford. Our 
-specialty is distributed temporal graph analytics, since most platforms are either too slow or 
-cannot perform this kind of analysis. Come say hello.  
+### Career
+
+I work as a Quant at..... 
 
 I also am on the technical committee for the [Initiative for Cryptocurrencies and Contracts (IC3)](http://www.initc3.org/). We hold bi-annual camps, retreats and research all the good things in blockchain, cryptocurrencies and cryptography! Do check us out. 
 
-Prior to this I graduated with a [Computer Science](http://www.cs.ucl.ac.uk/) 
+Prior to this, I worked in research and development at [Pometry](https://www.pometry.com), a startup I co-founded in 2021, with 
+my colleague [Ben Steer](https://scholar.google.co.uk/citations?user=JaCvFD8AAAAJ&hl=en) & Alhamza Alnaimi both from Queen Mary and James Alford. Our 
+specialty is distributed temporal graph analytics, since most platforms are either too slow or 
+cannot perform this kind of analysis. Please say hello! They continue to build revolutionary graph analytic tools.  
+
+### Education
+
+Education wise, I graduated with a [Computer Science](http://www.cs.ucl.ac.uk/) 
 [PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) from
 the [Information Security Group](http://sec.cs.ucl.ac.uk/) at
 [UCL (University College London)](http://www.ucl.ac.uk). 
@@ -36,7 +42,7 @@ And even before this:
 Well, I was studying at school, playing video games, hacking game consoles, wrote a Call of duty zombies map, and above all else, enjoyed a life completely oblivious to the complexities and evilness of the world. 
 
 
-# Publications
+### Scientific Publications
 
 * **[How to Peel a Million: Validating and Expanding Bitcoin Clusters](files/how_to_peel.pdf)** ([Usenix](https://www.usenix.org/system/files/sec22-kappos.pdf), [Blogpost](https://medium.com/initc3org/red-flags-for-smart-contract-pyramid-schemes-in-2021-f017022c1e5c))<br/>
   George Kappos, Haaroon Yousaf, Rainer Stütz, Sofia Rollet, Bernhard Haslhofer, Sarah Meiklejohn <br/>
@@ -165,15 +171,15 @@ Majority of my supervisions are with my amazing one-of-a-kind colleagues [George
 * [Facebook London Hackathon 2013](http://facebook.com/londonhackathon)(My first hackathon!)
 
 
-# Projects
+### Projects
 
 I am interested in a number of security projects. Either I am doing it myself or you can do it and I will help guide you. 
 [See this link for more info](files/future_research.txt)
 
-# Consulting
+### Consulting
 <p> Send me an email. Lets have a chat. </p>
 
-# Contact
+### Contact
   <b>Email</b>: <a href="mailto:h[dot]yousaf[at]ucl[dot]ac[dot]uk?Subject=I%20Come%20From%20Your%20Website" target="_top">h[dot]yousaf[at]ucl[dot]ac[dot]uk</a><br/>
 * [GitHub](https://github.com/haaroon)
 * [LinkedIn](https://www.linkedin.com/in/haaroonyousaf/)
