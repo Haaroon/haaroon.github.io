@@ -4,7 +4,7 @@ layout: default
 
 ### Career
 
-I work as a Quant at..... 
+I work as a Trader at blockchain.com... 
 
 I also am on the technical committee for the [Initiative for Cryptocurrencies and Contracts (IC3)](http://www.initc3.org/). We hold bi-annual camps, retreats and research all the good things in blockchain, cryptocurrencies and cryptography! Do check us out. 
 
